@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
             GOKUL RAJ
           </h1>
           <p className="text-sm sm:text-lg md:text-2xl text-gray-300 mb-6 sm:mb-8 px-4">
-            Curious Learner Ready to Contribute and Grow
+            <h2>Curious Learner Ready to Contribute and Grow</h2>
           </p>
           <a
             href="#contact"
